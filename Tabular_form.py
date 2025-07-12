@@ -1,0 +1,12 @@
+a='math'
+b='chem'
+c='phy'
+d='bio'
+e='MPW'
+f='civil'
+print("\t\t1\t2\t3\t\t\t4\t5\t6\n\nMonday\t\t{}\t{}\t{}\t\t\t{}\t{}\t{}".format(a,b,c,d,e,f))
+print("\n\nTuesday\t\t{}\t{}\t{}\t\tL\t{}\t{}\t{}".format(b,a,d,e,f,c))
+print("\n\nWednesday\t{}\t{}\t{}\t\tU\t{}\t{}\t{}".format(c,d,f,e,a,b))
+print("\n\nThursday\t{}\t{}\t{}\t\tN\t{}\t{}\t{}".format(f,e,d,a,c,b))
+print("\n\nFriday\t\t{}\t{}\t{}\t\tC\t{}\t{}\t{}".format(d,e,f,a,b,c))
+print("\n\nSaturday\t{}\t{}\t{}\t\tH\t{}\t{}\t{}".format(c,e,f,d,a,b))
