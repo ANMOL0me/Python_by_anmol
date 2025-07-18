@@ -1,4 +1,3 @@
-#snake water gun
 print("SNAKE WATER GUN GAME \nMAKE FIRST 3 POINTS TO WIN FROM COMPUTER")
 import random
 c=['snake','water','gun']
