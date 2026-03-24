@@ -1,4 +1,4 @@
-#calculator
+#CALCULATOR..
 num1 = float(input("num1\t="))
 num2 = float(input("num2\t="))
 operator = input("+\t-\t/\t*\t")
